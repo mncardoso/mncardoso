@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I’m Miguel Cardoso, a coder🧑‍💻/designer🧑‍🎨 that loves solving problems. With an analytical eye for details, I bring growth to my employers. I use a wide range of software for visual design, video and audio production, 3D environments, video-games, web-design and interactivity. I love keeping up with the latest features of the technologies in my field. I can easily integrate a team, either working remotely or at the office, anywhere in the world. I also have experience in team management, bringing out the best of each person. I’m bilingual in Portuguese and English, and I speak fairly well Spanish and French.
+I'm Miguel, a 🧑‍💻front-end developer with an analytical eye for details and design. I have experience in designing, coding and testing front-end web applications in various programming languages and frameworks. I specialise in JavaScript and have professional experience working with React, Node and Next. I love solving problems and keeping up with the latest features of the technologies in my field. I can easily adapt my workflow to new frameworks, test on different platforms and integrate a team either remotely or at the office, anywhere in the world. I'm bilingual in Portuguese and English, and speak fairly well Spanish and French.
 
 <!--
 **mncardoso/mncardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
