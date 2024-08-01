@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!--
 I'm Miguel, a 🧑‍💻front-end developer with an analytical eye for details and design. I have experience in designing, coding and testing front-end web applications in various programming languages and frameworks. I specialise in JavaScript and have professional experience working with React, Node and Next. I love solving problems and keeping up with the latest features of the technologies in my field. I can easily adapt my workflow to new frameworks, test on different platforms and integrate a team either remotely or at the office, anywhere in the world. I'm bilingual in <img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="15"/> Portuguese and <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="15"/> English, and speak fairly well <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="15"/> Spanish and <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> French.
 
 #
@@ -24,7 +25,6 @@ I'm Miguel, a 🧑‍💻front-end developer with an analytical eye for details 
 
 </p>
 
-<!--
 **mncardoso/mncardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
